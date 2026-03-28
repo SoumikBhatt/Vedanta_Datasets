@@ -1,3 +1,11 @@
+# Home Page
+
+https://atmabodha.github.io
+
+# Gita Word Game for Kids
+
+https://www.utmt.org/gita_kids_word_game
+
 # OpenNLP 
 GitHub repo containing open source codes for various AI/ML projects based on these datasets:
 
